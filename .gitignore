@@ -1,1 +1,13 @@
+#= iOS FILES
 .DS_Store
+
+# PAGES
+*.pug
+*.html
+
+
+#= PREPOS FILES
+desktop.ini
+prepros.cfg
+prepros.config
+prepros-6.config
