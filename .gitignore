@@ -1,13 +1,14 @@
 #= iOS FILES
 .DS_Store
 
-# PAGES
+#= PAGES
 *.pug
 *.html
-
+assets/*
 
 #= PREPOS FILES
 desktop.ini
 prepros.cfg
 prepros.config
 prepros-6.config
+node_modules/

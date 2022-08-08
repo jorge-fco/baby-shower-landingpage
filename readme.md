@@ -8,13 +8,16 @@
 ## Snippets
 - Header
 - Footer
+- Navigation
 
 ## Style Guide
 - Colors
 - Typography
+- Icons
 
-## Deploy
+## 🚀 Deploy
 - Title
 - Favicon
 - Canonical
 - Share Image
+- Certificate SSL
