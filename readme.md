@@ -21,3 +21,8 @@
 - Canonical
 - Share Image
 - Certificate SSL
+- Google Analytics
+- Google Tag Manager
+- Facebook ID
+- Facebook Domain Verification
+- Facebook Share Debugger
