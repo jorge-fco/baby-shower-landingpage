@@ -4,6 +4,7 @@
 #= PAGES
 *.pug
 assets/*
+!assets/fonts/
 
 #= PREPOS FILES
 desktop.ini

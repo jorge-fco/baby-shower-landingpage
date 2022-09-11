@@ -16,6 +16,8 @@
 - Icons
 
 ## Tools
+- HTML
+- HTML5
 - minireset.css v0.0.6
 
 ## 🚀 Deploy
