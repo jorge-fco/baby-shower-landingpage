@@ -15,6 +15,9 @@
 - Typography
 - Icons
 
+## Tools
+- minireset.css v0.0.6
+
 ## 🚀 Deploy
 - Title
 - Favicon

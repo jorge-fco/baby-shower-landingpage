@@ -3,7 +3,6 @@
 
 #= PAGES
 *.pug
-*.html
 assets/*
 
 #= PREPOS FILES
