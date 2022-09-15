@@ -5,6 +5,7 @@
 *.pug
 assets/*
 !assets/fonts/
+!assets/images/
 
 #= PREPOS FILES
 desktop.ini

@@ -18,7 +18,8 @@
 ## Tools
 - HTML
 - HTML5
-- minireset.css v0.0.6
+- Minireset.css v0.0.6
+- jquery-3.6.0
 
 ## 🚀 Deploy
 - Title
