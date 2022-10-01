@@ -3,9 +3,8 @@
 
 #= PAGES
 *.pug
-assets/*
-!assets/fonts/
-!assets/images/
+assets/css/*
+assets/scss/*
 
 #= PREPOS FILES
 desktop.ini
