@@ -5,6 +5,7 @@
 *.pug
 assets/css/*
 assets/scss/*
+assets/js/*
 
 #= PREPOS FILES
 desktop.ini
